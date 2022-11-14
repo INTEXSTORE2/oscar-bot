@@ -162,7 +162,7 @@ global.fakefb = {
                                "mimetype": "image/jpeg",
                                "jpegThumbnail": fs.readFileSync('./thumbnail.jpg') //Gambarnye
                            },
-                           "title": メ𝙄𝙔𝘼𝙉𝙉×͜×, //Kasih namalu 
+                           "title": wm, //Kasih namalu 
                            "description": "𝙎𝙚𝙞𝙠𝙖 𝘽𝙤𝙩𝙯𝙯", 
                            "currencyCode": "USD",
                            "priceAmount1000": "20000000",
