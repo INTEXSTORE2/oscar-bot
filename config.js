@@ -69,7 +69,7 @@ global.nameown = 'メ𝙄𝙔𝘼𝙉𝙉×͜×'  // Nama Owner
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285850539404', '❦ Oscar 🎐', true] //Ganti jd nomormu sama Namamu
+  ['6281318054482', '❦ メ𝙄𝙔𝘼𝙉𝙉×͜× 🎐', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
